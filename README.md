@@ -9,11 +9,13 @@ Dusk's Pokemon Type Calculator is a Python-based tool for calculating the type w
 - Calculate the weaknesses of mono or dual-type Pokemon.
 - User-friendly tkinter GUI.
 
+## Download Dusks Pokemon Type Calculator
+
+If you'd like to just download the installer for the program, you can do so by clicking [here](https://www.mediafire.com/file/6zvm5231xkr1cv8/DusksTypeCalculatorV2_Setup.exe/file).
+
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine.
-
-
 
 ### Installation
 
